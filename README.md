@@ -18,13 +18,11 @@
 <h3 align="left">Socials</h3>
 <p align="left">
     <a href="https://twitter.com/rahmathafiz" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="Twitter" height="30" width="40" /></a> <a href="https://www.instagram.com/rahmathafiz/"
-        target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="Instagram" height="30" width="40" /></a> <a
-        href="https://www.linkedin.com/in/rahmat-hafiz-jayadiningrat-90a2a7198/" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" height="30" width="40" /></a> <a
+        href="https://www.instagram.com/rahmathafiz/" target="_blank"><img align="center"
+            src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="Instagram" height="30"
+            width="40" /></a> <a href="https://www.linkedin.com/in/rahmat-hafiz-jayadiningrat-90a2a7198/"
+        target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
             alt="LinkedIn" height="30" width="40" /></a> <a href="https://www.showwcase.com/rahmathafiz"
         target="_blank"><img align="center"
             src="https://th.bing.com/th/id/R.bd2a702d30b8b1d47697562f89238641?rik=aRAbJxfeMJNaiQ&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_511789.png&ehk=2sYmHUiH13uf7wZFlPdkIzYZsgEb7uUK4ulaiNrKmh4%3d&risl=&pid=ImgRaw&r=0"
@@ -68,18 +66,14 @@
         href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
-</p>
-
-<br>
+</p> <br>
 
 <h3 align="left">Github Performance</h3>
 <a href="https://github.com/rahmathafiz" align="left"><img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmathafiz&&theme=tokyonight"
         alt="rahmathafiz" /></a>
-
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=rahmathafiz&show_icons=true&locale=en&theme=tokyonight"
         alt="rahmathafiz" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmathafiz&&theme=tokyonight"
         alt="rahmathafiz" /></p>
