@@ -61,8 +61,8 @@
             src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="notion" width="40" height="40" /> </a> <a
         href="https://github.com/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="github" width="40" height="40" /> </a> <a
-        href="https://www.microsoft.com/id-id/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/microsoft-edge-1.svg" alt="edge" width="40" height="40" /> </a> <a
+        href="https://trello.com/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40" /> </a> <a
         href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
