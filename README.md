@@ -23,10 +23,7 @@
             src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="Instagram" height="30"
             width="40" /></a> <a href="https://www.linkedin.com/in/rahmat-hafiz-jayadiningrat-90a2a7198/"
         target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
-            alt="LinkedIn" height="30" width="40" /></a> <a href="https://www.showwcase.com/rahmathafiz"
-        target="_blank"><img align="center"
-            src="https://th.bing.com/th/id/R.bd2a702d30b8b1d47697562f89238641?rik=aRAbJxfeMJNaiQ&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_511789.png&ehk=2sYmHUiH13uf7wZFlPdkIzYZsgEb7uUK4ulaiNrKmh4%3d&risl=&pid=ImgRaw&r=0"
-            alt="Showwcase" height="30" width="40" /></a>
+            alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 
